@@ -12,4 +12,5 @@
 
 ⚡ Dato curioso: Tengo formación en diseño gráfico, lo que me ayuda a crear visualizaciones de datos atractivas.
 
+# Certificado #
 ![Captura de pantalla 2024-10-04 181044](https://github.com/user-attachments/assets/ccfa0132-81cf-404d-bdea-0262afabaf18)
